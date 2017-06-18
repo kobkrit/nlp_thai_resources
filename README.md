@@ -5,7 +5,7 @@ Collection of Thai NLP library
 
 ### Word Segmentation
 
-Library | Description | Supported Languages | Features | License | Link
+Library | Description | Support Languages | Features | License | Link
 --- | --- | --- | --- | --- | ---
 TCC| Thai Character Cluster | C | | | 
 Wordcut | Thai word breaker for Node.js | JavaScript, Node.JS | | LGPL-3.0 | [GITHUB](https://github.com/veer66/wordcut)
