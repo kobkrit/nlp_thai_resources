@@ -14,6 +14,8 @@ Collection of Thai NLP library
 
 ## Corpus
 
-Library Name | Size | Features
---- | --- | ---
-ORCHID | 30,000 sentences | Word Seg., POS Tagging
+Library Name | Size | Features | URL
+--- | --- | --- | ---:
+ORCHID | 30K sentences | Word Seg., POS Tagging | https://www.nectec.or.th/corpus/index.php?league=pm
+InterBEST 2009/2010 | 5M words | Word Seg. | https://www.nectec.or.th/corpus/index.php?league=pm
+
