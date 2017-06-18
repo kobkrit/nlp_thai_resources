@@ -1,6 +1,5 @@
-# nlp_thai_resource
+# Thai NLP Resource
 Collection of Thai NLP library
-
 
 ## Library
 
@@ -11,3 +10,10 @@ Collection of Thai NLP library
 ### Name Entity Recognition
 
 ### Syntactic parsing
+
+
+## Corpus
+
+Library Name | Size | Features
+--- | --- | ---
+ORCHID | 30,000 sentences | Word Seg., POS Tagging
