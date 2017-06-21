@@ -22,7 +22,7 @@ CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93
 
 Library | Description | Support Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Chart-parser | Extract Syntactic Sturcture from POS Tagged Sentence. | C |  | Copyright | [Thanaruk T.](mailto:thanaruk@siit.tu.ac.th)
+Chart-parser | Extract Syntactic Sturcture from POS Tagged Sentence. | C |  | Copyright | Thanaruk T. (thanaruk@siit.tu.ac.th)
 
 ## Corpus
 
