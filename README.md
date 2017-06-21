@@ -17,14 +17,18 @@ CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93
 
 ### Name Entity Recognition
 
+
 ### Syntactic parsing
 
+Library | Description | Support Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+Chart-parser | Extract Syntactic Sturcture from POS Tagged Sentence. | C |  | Copyright | [Thanaruk T.](mailto:thanaruk@siit.tu.ac.th)
 
 ## Corpus
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-ORCHID | | 30K sent. | Word Seg., POS Tagging | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
+ORCHID | | 30K sent. | Word Seg., POS Tagged. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 InterBEST 2009/2010 | | 5M words | Word Seg. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Transliteration Corpus |  | 31K pairs | Thai-Eng Translation Pair | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
