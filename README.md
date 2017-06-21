@@ -4,21 +4,72 @@ Collection of Thai NLP libraries, dictionaries, and corpus.
 ## Thai NLP Libraries
 
 ### Thai Character Cluster
-Library | Description | Support Languages | Features | License | Author & Link
+Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 TCC| Thai Character Cluster | C | | | Thanaruk et.al. 
 
 
 ### Word Segmentation
-
-Library | Description | Programming Languages | Features | License | Author & Link
---- | --- | --- | --- | --- | ---
-Swath | SWATH (Smart Word Analysis for THai) is a word segmentation for Thai | C | Longest Matching, Maximal Matching and Part-of-Speech Bigram. | GPL | [CMU](http://www.cs.cmu.edu/~paisarn/software.html)
-Lexto | Lexto: Thai Lexeme Tokenizer | Java, Python | | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexto.php) + [Python2 Wrapper](https://github.com/Remixman/PythonLexTo) + [Python3 Wrapper](https://github.com/c4n/PythonLexTo)
-Wordcut | Thai word breaker for Node.js | JavaScript, Node.JS | | LGPL-3.0 | [Veer66, github](https://github.com/veer66/wordcut)
-CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93 recall, 0.92 precision, 0.93 F-measure. | MIT | [Pucktada, github](https://github.com/pucktada/cutkum)
-
-
+<table>
+<thead>
+<tr>
+<th>Library</th>
+<th>Description</th>
+<th>Programming Languages</th>
+<th>Features</th>
+<th>License</th>
+<th>Author &amp; Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Swath</td>
+<td>SWATH (Smart Word Analysis for THai) is a word segmentation for Thai</td>
+<td>C</td>
+<td>Longest Matching, Maximal Matching and Part-of-Speech Bigram.</td>
+<td>GPL</td>
+<td><a href="http://www.cs.cmu.edu/%7Epaisarn/software.html">CMU</a></td>
+</tr>
+<tr>
+<td rowspan="3">Lexto</td>
+<td rowspan="3">Lexto: Thai Lexeme Tokenizer</td>
+<td>Java</td>
+<td></td>
+<td>LGPL</td>
+<td>
+<a href="http://www.sansarn.com/lexto/license-lexto.php">NECTEC</a>
+</td>
+</tr>
+<tr>
+<td>Python 2</td>
+<td></td>
+<td>LGPL</td>
+<td><a href="https://github.com/Remixman/PythonLexTo">Python2 Wrapper</a></td>
+</tr>
+<tr>
+<td>Python 3</td>
+<td></td>
+<td>LGPL</td>
+<td><a href="https://github.com/c4n/PythonLexTo">Python3 Wrapper</a></td>
+</tr>
+<tr>
+<td>Wordcut</td>
+<td>Thai word breaker for Node.js</td>
+<td>JavaScript, Node.JS</td>
+<td></td>
+<td>LGPL-3.0</td>
+<td><a href="https://github.com/veer66/wordcut">Veer66, github</a></td>
+</tr>
+<tr>
+<td>CutKum</td>
+<td>Thai Word-Segmentation with Deep Learning in Tensorflow</td>
+<td>Python</td>
+<td>0.93 recall, 0.92 precision, 0.93 F-measure.</td>
+<td>MIT</td>
+<td><a href="https://github.com/pucktada/cutkum">Pucktada, github</a></td>
+</tr>
+</tbody>
+</table>
 
 ### Part of Speech Tagging (POS Tagging)
 Library | Description | Programming Languages | Features | License | Author & Link
