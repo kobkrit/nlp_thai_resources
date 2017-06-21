@@ -9,6 +9,8 @@ Library | Description | Support Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 TCC| Thai Character Cluster | C | | | Thanaruk et.al. 
 Wordcut | Thai word breaker for Node.js | JavaScript, Node.JS | | LGPL-3.0 | [Veer66, github](https://github.com/veer66/wordcut)
+CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93 recall, 0.92 precision, 0.93 F-measure. | MIT | [Pucktada, github](https://github.com/pucktada/cutkum)
+
 
 
 ### Part of Speech Tagging (POS Tagging)
