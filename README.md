@@ -108,6 +108,7 @@ Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 Thai National Corpus 2 | | 32M words. | Query text by genre, domain | Copyright | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
 
-
-
-
+## Pre-trained Word Vectors
+Pre-trained Model | Description | Size | Dimensions | License | Link
+--- | --- | --- | --- | --- | ---
+fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec) 
