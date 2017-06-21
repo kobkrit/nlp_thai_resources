@@ -1,5 +1,5 @@
 # Thai NLP Resource
-Collection of Thai NLP library
+Collection of Thai NLP libraries and corpus.
 
 ## Library
 
