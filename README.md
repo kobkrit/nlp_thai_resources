@@ -30,7 +30,7 @@ CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93
 Library | Description | Support Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | Copyright | Thanaruk T. (thanaruk@siit.tu.ac.th)
-Grammar Processing | Labelled Buckets -> Context Free Grammer (CFG) | Python | Transform and compute probability | [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
+Grammar Processing | Labelled Buckets -> Context Free Grammer (CFG) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
 
 
 ## Dictionaries / Translation Pairs
