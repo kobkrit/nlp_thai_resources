@@ -94,12 +94,20 @@ Library | Description | Size | Features | License | Link
 Transliteration Corpus |  | 31K pairs | Thai-Eng Translation Pair | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Lexitron | Opensource Thai-English Dictionary | | TH->EN, EN->TH | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexitron.php)
 
-## Text Corpus
+## Downloadable Text Corpus
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 ORCHID | | 30K sent. | Word Seg., POS Tagged. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 InterBEST 2009/2010 | | 5M words | Word Seg. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
+TNC Top-5000 Words | Word frequency | 5,000 words | Frequency of Thai words in various genres, EXCEL | Copyright | [CHULA](http://www.arts.chula.ac.th/~ling/TNC/category.php?id=58&) 
+
+## Web Query Text Corpus
+Library | Description | Size | Features | License | Link
+--- | --- | --- | --- | --- | ---
+Thai National Corpus 2 | | 32M words. | Query text by genre, domain | Copyright | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
+
+
 
 
