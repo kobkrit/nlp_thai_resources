@@ -11,7 +11,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 
 ### Word Segmentation
 
-Library | Description | Support Languages | Features | License | Author & Link
+Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Swath | SWATH (Smart Word Analysis for THai) is a word segmentation for Thai | C | Longest Matching, Maximal Matching and Part-of-Speech Bigram. | GPL | [CMU](http://www.cs.cmu.edu/~paisarn/software.html)
 Lexto | Lexto: Thai Lexeme Tokenizer | Java | | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexto.php)
@@ -21,13 +21,16 @@ CutKum | Thai Word-Segmentation with Deep Learning in Tensorflow | Python | 0.93
 
 
 ### Part of Speech Tagging (POS Tagging)
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](https://veer66.wordpress.com/2012/03/20/part-of-speech-tagger-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/), [Jitar](https://github.com/danieldk/jitar) + [NAiST, 1](http://naist.cpe.ku.ac.th/pkg/jitar_model_large.zip) + [NAiST, 2](http://naist.cpe.ku.ac.th/pkg/jitar-20100224.zip)
 
 ### Name Entity Recognition
 
 
 ### Syntactic Parsing & Tools 
 
-Library | Description | Support Languages | Features | License | Author & Link
+Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | Copyright | Thanaruk T. (thanaruk@siit.tu.ac.th)
 Grammar Processing | Labelled Buckets -> Context Free Grammer (CFG) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
