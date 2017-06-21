@@ -1,5 +1,6 @@
 # Thai NLP Resource
 Collection of Thai NLP libraries, dictionaries, and corpus.
+Always welcome for pull requests.
 
 ## Thai NLP Libraries
 
