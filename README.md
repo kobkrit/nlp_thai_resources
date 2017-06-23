@@ -59,7 +59,15 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 <td>JavaScript, Node.JS</td>
 <td></td>
 <td>LGPL-3.0</td>
-<td><a href="https://github.com/veer66/wordcut">Veer66, github</a></td>
+<td><a href="https://github.com/veer66/wordcut">veer66, github</a></td>
+</tr>
+<tr>
+<td>wordcutpy</td>
+<td>A simple Thai word tokenizer written in 1 Python file</td>
+<td>Python 3</td>
+<td></td>
+<td>LGPL-3.0</td>
+<td><a href="https://github.com/veer66/wordcutpy">veer66, github</a></td>
 </tr>
 <tr>
 <td>CutKum</td>
