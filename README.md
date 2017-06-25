@@ -77,6 +77,15 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 <td>MIT</td>
 <td><a href="https://github.com/pucktada/cutkum">Pucktada, github</a></td>
 </tr>
+<tr>
+<td>DeepCut</td>
+<td>A Thai word tokenization library using Deep Neural Network.</td>
+<td>Python</td>
+<td>0.99 recall, 0.986 precision, 0.988 F-measure.</td>
+<td>MIT</td>
+<td><a href="https://github.com/rkcosmos/deepcut">rkcosmos, github</a></td>
+</tr>
+
 </tbody>
 </table>
 
