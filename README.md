@@ -71,7 +71,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 </tr>
 <tr>
 <td>CutKum</td>
-<td>Thai Word-Segmentation with Deep Learning in Tensorflow</td>
+<td>Thai Word-Segmentation with Deep Learning in Tensorflow. RNN.</td>
 <td>Python</td>
 <td>0.93 recall, 0.92 precision, 0.93 F-measure.</td>
 <td>MIT</td>
@@ -79,13 +79,12 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 </tr>
 <tr>
 <td>DeepCut</td>
-<td>A Thai word tokenization library using Deep Neural Network.</td>
+<td>A Thai word tokenization library using Deep Neural Network. CNN.</td>
 <td>Python</td>
 <td>0.99 recall, 0.986 precision, 0.988 F-measure.</td>
 <td>MIT</td>
 <td><a href="https://github.com/rkcosmos/deepcut">rkcosmos, github</a></td>
 </tr>
-
 </tbody>
 </table>
 
