@@ -83,7 +83,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 <td>Python</td>
 <td>f1: 98.8%, precision: 98.6%, recall: 99.1%</td>
 <td>MIT</td>
-<td><a href="https://github.com/rkcosmos/deepcut">Pucktada, github</a></td>
+<td><a href="https://github.com/rkcosmos/deepcut">Rkcosmos, github</a></td>
 </tr>
 </tbody>
 </table>
