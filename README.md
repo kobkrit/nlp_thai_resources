@@ -73,7 +73,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 <td>CutKum</td>
 <td>Thai Word-Segmentation with Deep Learning in Tensorflow. RNN.</td>
 <td>Python</td>
-<td>0.93 recall, 0.92 precision, 0.93 F-measure.</td>
+<td>0.93 F-measure.</td>
 <td>MIT</td>
 <td><a href="https://github.com/pucktada/cutkum">Pucktada, github</a></td>
 </tr>
@@ -81,7 +81,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 <td>DeepCut</td>
 <td>A Thai word tokenization library using Deep Neural Network. CNN.</td>
 <td>Python</td>
-<td>0.99 recall, 0.986 precision, 0.988 F-measure.</td>
+<td>0.988 F-measure.</td>
 <td>MIT</td>
 <td><a href="https://github.com/rkcosmos/deepcut">rkcosmos, github</a></td>
 </tr>
@@ -100,7 +100,7 @@ TCC| Thai Character Cluster | C | | | Thanaruk et.al.
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](https://veer66.wordpress.com/2012/03/20/part-of-speech-tagger-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/), [Jitar](https://github.com/danieldk/jitar) + [NAiST, 1](http://naist.cpe.ku.ac.th/pkg/jitar_model_large.zip) + [NAiST, 2](http://naist.cpe.ku.ac.th/pkg/jitar-20100224.zip)
-SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 0.9163 F-measure RNN. LSTM | MIT | [KenjiroAI, github](https://github.com/KenjiroAI/SynThai)
+SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 0.9163 F-measure. RNN. LSTM | MIT | [KenjiroAI, github](https://github.com/KenjiroAI/SynThai)
 
 
 ### Name Entity Recognition
