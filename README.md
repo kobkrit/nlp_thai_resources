@@ -105,6 +105,10 @@ SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. R
 
 ### Name Entity Recognition
 
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+Thai-NEST | Thai Named Entity tagging Specification and Tools |  |  | GNU LPG | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/)  
+
 
 ### Syntactic Parsing & Tools 
 
