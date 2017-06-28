@@ -7,7 +7,7 @@ Always welcome for pull requests.
 ### Thai Character Cluster
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-TCC| Thai Character Cluster | C | | | Thanaruk et.al. 
+JTCC| Thai Character Cluster | Java | | | [Wittawat](https://github.com/wittawatj/jtcc)
 
 
 ### Word Segmentation
