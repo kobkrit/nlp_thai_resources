@@ -148,7 +148,7 @@ Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
 
-# Acknowledgement
+# Acknowledgements
 * Arthit (https://www.facebook.com/arthit) - For suggestions on license words.
 * C4N (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n)
 * Ver66 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
