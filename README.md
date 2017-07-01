@@ -6,7 +6,8 @@ Collection of Thai NLP libraries, dictionaries, and corpus.
 ### Thai Character Cluster
 Library | Description | Support Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-TCC| Thai Character Cluster | C | | | Thanaruk et.al. 
+TCC| Thai Character Cluster | C | | | Thanaruk et.al.
+TCC| Thai Character Cluster | Python | | | [Korakot, github](https://github.com/wannaphongcom/pythainlp/blob/pythainlp1.4/pythainlp/tokenize/tcc.py)
 
 
 ### Word Segmentation
@@ -28,12 +29,12 @@ Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](
 ### Name Entity Recognition
 
 
-### Syntactic Parsing & Tools 
+### Syntactic Parsing & Tools
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | Copyright | Thanaruk T. (thanaruk@siit.tu.ac.th)
-Grammar Processing | Labelled Buckets -> Context Free Grammer (CFG) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
+Grammar Processing | Labelled Bracket -> Context Free Grammer (CFG) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
 
 
 ## Dictionaries / Translation Pairs
@@ -49,5 +50,3 @@ Library | Description | Size | Features | License | Link
 ORCHID | | 30K sent. | Word Seg., POS Tagged. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 InterBEST 2009/2010 | | 5M words | Word Seg. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
-
-
