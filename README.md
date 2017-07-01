@@ -5,10 +5,17 @@ Always welcome for pull requests.
 ## Thai NLP Libraries
 
 ### Thai Character Cluster
+
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 JTCC| Thai Character Cluster | Java | | GPL-3.0 | [Wittawat](https://github.com/wittawatj/jtcc)
+TCC | Thai Character Cluster | Python | | Apache 2.0 | [Wannaphong](https://github.com/wannaphongcom/pythainlp/blob/pythainlp1.4/pythainlp/tokenize/tcc.py)
 
+
+### Thai Soundex
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/korakot/0b772e09340cac2f493868da035597e8)
 
 ### Word Segmentation
 <table>
