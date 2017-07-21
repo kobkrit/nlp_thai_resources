@@ -1,5 +1,5 @@
-# Thai Natural Language Processing Resource
-Collection of Thai Natural Language Processing libraries, dictionaries, and corpus.
+# Thai Natural Language Processing (Thai NLP) Resource
+Collection of Thai Natural Language Processing (NLP) software libraries, dictionaries, and corpus.
 Always welcome for pull requests.
 
 ## Thai NLP Libraries
