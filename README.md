@@ -127,8 +127,7 @@ Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python 
 ### Thai Word Embedding
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL | 
-[Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
+kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL |  [Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
 
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
