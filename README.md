@@ -109,12 +109,17 @@ Library | Description | Programming Languages | Features | License | Author & Li
 Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](https://veer66.wordpress.com/2012/03/20/part-of-speech-tagger-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/), [Jitar](https://github.com/danieldk/jitar) + [NAiST, 1](http://naist.cpe.ku.ac.th/pkg/jitar_model_large.zip) + [NAiST, 2](http://naist.cpe.ku.ac.th/pkg/jitar-20100224.zip)
 SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 0.9163 F-measure. RNN. LSTM | MIT | [KenjiroAI, github](https://github.com/KenjiroAI/SynThai)
 
-
 ### Name Entity Recognition
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Named Entity Tagging (Thai NEST) | Thai Named Entity tagging Specification and Tools | | | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/), [AIAT](http://aiat.in.th/resources/index.php/tools/48-1-0-named-entity-tagging-program-version-1-0)
+
+### News Structure Tagging
+
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+News Structure Tagging Program | Thai News Structure Tagging Program | | Metadata tagging, Structure tagging, Automatic News Title Generation | GPL | [AIAT](http://aiat.in.th/resources/index.php/tools/47-1-0-news-structure-tagging-program-version-1-0)
 
 ### Syntactic Parsing & Tools
 
