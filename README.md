@@ -1,5 +1,5 @@
-# Thai NLP Resource
-Collection of Thai NLP libraries, dictionaries, and corpus.
+# Thai Natural Language Processing Resource
+Collection of Thai Natural Language Processing libraries, dictionaries, and corpus.
 Always welcome for pull requests.
 
 ## Thai NLP Libraries
@@ -124,6 +124,11 @@ Library | Description | Programming Languages | Features | License | Author & Li
 Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | All rights reserved | Thanaruk T. (thanaruk@siit.tu.ac.th)
 Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
 
+### Thai Word Embedding
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL | 
+[Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
 
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
@@ -148,12 +153,14 @@ Prime Minister 29 | Prime Minister 29's Speech Sentences | 338KB | Word segged, 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 Thai National Corpus 2 | | 32M words. | Query text by genre, domain |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
-Thai Medical Document | | 3,594 docs | Document and dynamic keyword map |  All rights reserved  | [KINDML, SIIT](http://md.knowdd.com/)  
+Thai Medical Document | | 3,594 docs | Document and dynamic keyword map |  All rights reserved  | [KINDML, SIIT](http://md.knowdd.com/) 
+Southeast Asian Languages Library | Thai News, Web Text, Pop Music, Literature, Toponyms | 20M chars | Phase around a search text | | [SEALang](http://sealang.net/thai/corpus.htm)
 
-## Pre-trained Word Vectors
+## Pre-trained Word Vectors 
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
+
 
 # Acknowledgements
 * Arthit (https://www.facebook.com/arthit) - For suggestions on license words.
