@@ -114,8 +114,7 @@ SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. R
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Thai-NEST | Thai Named Entity tagging Specification and Tools |  |  | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/)  
-
+Named Entity Tagging (Thai NEST) | Thai Named Entity tagging Specification and Tools | | | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/), [AIAT](http://aiat.in.th/resources/index.php/tools/48-1-0-named-entity-tagging-program-version-1-0)
 
 ### Syntactic Parsing & Tools
 
