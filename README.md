@@ -155,9 +155,11 @@ Prime Minister 29 | Prime Minister 29's Speech Sentences | 338KB | Word segged, 
 ## Web Query Text Corpus
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
-Thai National Corpus 2 | | 32M words. | Query text by genre, domain |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
+Thai National Corpus 2 | | 32M words | Query text by genre, domain |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNCII/)
 Thai Medical Document | | 3,594 docs | Document and dynamic keyword map |  All rights reserved  | [KINDML, SIIT](http://md.knowdd.com/) 
 Southeast Asian Languages Library | Thai News, Web Text, Pop Music, Literature, Toponyms | 20M chars | Phase around a search text | | [SEALang](http://sealang.net/thai/corpus.htm)
+HSE Thai Corpus | Modern texts written in Thai language (mostly news websites) | 50M tokens | Query by word form, lexeme, translation, grammatical attributes, lexical attributees | [HSE School of Linguistics](http://web-corpora.net/ThaiCorpus/search/)
+
 
 ## Pre-trained Word Vectors 
 Pre-trained Model | Description | Size | Dimensions | License | Link
