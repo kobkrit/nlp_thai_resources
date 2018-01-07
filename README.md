@@ -100,6 +100,14 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>MIT</td>
 <td><a href="https://github.com/KenjiroAI/SynThai">KenjiroAI, github</a></td>
 </tr>
+<tr>
+<td>CutThai</td>
+<td>Thai word segmentation written in coffee-script Edit</td>
+<td>Coffee-script</td>
+<td></td>
+<td>MIT</td>
+<td><a href="https://github.com/pureexe/cutthai">pureexe, github</a></td>
+</tr>
 </tbody>
 </table>
 
