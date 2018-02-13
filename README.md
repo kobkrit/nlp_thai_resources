@@ -100,6 +100,15 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>MIT</td>
 <td><a href="https://github.com/KenjiroAI/SynThai">KenjiroAI, github</a></td>
 </tr>
+</tr>
+<tr>
+<td>Thai Language Toolkit (tltk)</td>
+<td> Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included)</td>
+<td>Python</td>
+<td>0.9786 F-measure. (It was tested on a different testset; it is not fair to compare it with other models.)</td>
+<td>GPLv3</td>
+<td><a href="https://pypi.python.org/pypi/tltk/"> awirote, the Python Package Index</a></td>
+</tr>
 </tbody>
 </table>
 
@@ -150,7 +159,7 @@ TNC Top-5000 Words | Word frequency | 5,000 words | Frequency of Thai words in v
 Click Bait Sentences | Thai Click Bait Sentence | 330 sent. (90.7KB) | | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/blob/master/clickbait/1.txt)
 Thai Sentimental Word List | Thai Sentimental Words List | 52KB | Seperated Words as Adj, V | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/tree/master/sentiment)
 Prime Minister 29 | Prime Minister 29's Speech Sentences | 338KB | Word segged, Name Entity Tagged | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/tree/master/thai-corpus/Prime%20Minister%2029)
-Thai named entity corpora | named entity corpora by Wirote Aroonmanakun's students | 266KB-1.5MB | syllable seg., word seg., Named Entity tagged | GPLv3(not sure, but tltk is using this license) | [นัชชา ถิระสาโรช Data](http://pioneer.chula.ac.th/~awirote/Data-Nutcha.zip)<br /> [ศศิวิมล กาลันสีมา Data](http://pioneer.chula.ac.th/~awirote/Data-Sasiwimon.zip)<br /> [ณัฐดาพร เลิศชีวะ](http://pioneer.chula.ac.th/~awirote/Data-Nattadaporn.zip) 
+Thai named entity corpora | named entity corpora by Wirote Aroonmanakun's students | 266KB-1.5MB | syllable seg., word seg., Named Entity tagged | GPLv3(not sure, but tltk is using this license) | [นัชชา ถิระสาโรช Data](http://pioneer.chula.ac.th/~awirote/Data-Nutcha.zip)<br /> [ศศิวิมล กาลันสีมา Data](http://pioneer.chula.ac.th/~awirote/Data-Sasiwimon.zip)<br /> [ณัฐดาพร เลิศชีวะ Data](http://pioneer.chula.ac.th/~awirote/Data-Nattadaporn.zip) 
 
 ## Web Query Text Corpus
 Library | Description | Size | Features | License | Link
