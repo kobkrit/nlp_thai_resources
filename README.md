@@ -84,6 +84,14 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>MIT</td>
 <td><a href="https://github.com/pucktada/cutkum">Pucktada, github</a></td>
 </tr>
+ <tr>
+<td>Thai Language Toolkit (tltk)</td>
+<td> Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included)</td>
+<td>Python</td>
+<td>0.9786 F-measure. (It was tested on a different testset; it is not fair to compare it with other models.)</td>
+<td>GPLv3</td>
+<td><a href="https://pypi.python.org/pypi/tltk/"> awirote, the Python Package Index</a></td>
+ </tr>
 <tr>
 <td>DeepCut</td>
 <td>A Thai word tokenization library using Deep Neural Network. CNN.</td>
@@ -100,14 +108,6 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>MIT</td>
 <td><a href="https://github.com/KenjiroAI/SynThai">KenjiroAI, github</a></td>
 </tr>
-<tr>
-<td>Thai Language Toolkit (tltk)</td>
-<td> Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included)</td>
-<td>Python</td>
-<td>0.9786 F-measure. (It was tested on a different testset; it is not fair to compare it with other models.)</td>
-<td>GPLv3</td>
-<td><a href="https://pypi.python.org/pypi/tltk/"> awirote, the Python Package Index</a></td>
- </tr>
 <tr>
 <td>CutThai</td>
 <td>Thai word segmentation written in coffee-script Edit</td>
