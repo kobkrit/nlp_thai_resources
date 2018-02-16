@@ -146,13 +146,15 @@ Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python 
 ### Thai Word Embedding
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL |  [Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
+kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL | [Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
 
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 Transliteration Corpus |  | 31K pairs | Thai-Eng Translation Pair | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
-Lexitron | Opensource Thai-English Dictionary | | TH->EN, EN->TH | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexitron.php)
+LEXiTRON | Thai<->English Dictionary | | TH->EN, EN->TH | LEXiTRON License | [NECTEC](http://www.sansarn.com/lexto/license-lexitron.php)
+Yaitron | LEXiTRON in machine readable format (XML) | | TH->EN, EN->TH | LEXiTRON License | Veer66 [Schema](http://th.lug.wikia.com/wiki/YAiTRON_%28English-Thai_dictionary%29), [Data & Conversion Code](https://github.com/veer66/Yaitron)
+
 
 ## Downloadable Text Corpus
 
@@ -192,5 +194,5 @@ http://aiat.in.th/resources/
 # Acknowledgements
 * Arthit (https://www.facebook.com/arthit) - For suggestions on license words.
 * C4N (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n)
-* Ver66 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
+* Veer66 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
 * Bi89 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bi89)
