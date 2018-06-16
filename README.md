@@ -80,7 +80,7 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>CutKum</td>
 <td>Thai Word-Segmentation with Deep Learning in Tensorflow. RNN.</td>
 <td>Python</td>
-<td>0.93 F-measure.</td>
+<td>93% F-measure.</td>
 <td>MIT</td>
 <td><a href="https://github.com/pucktada/cutkum">Pucktada, github</a></td>
 </tr>
@@ -88,7 +88,7 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>Thai Language Toolkit (tltk)</td>
 <td> Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included)</td>
 <td>Python</td>
-<td>0.9786 F-measure. (It was tested on a different testset; it is not fair to compare it with other models.)</td>
+<td>97.86% F-measure. (It was tested on a different testset; it is not fair to compare it with other models.)</td>
 <td>GPLv3</td>
 <td><a href="https://pypi.python.org/pypi/tltk/"> awirote, the Python Package Index</a></td>
  </tr>
@@ -96,7 +96,7 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>DeepCut</td>
 <td>A Thai word tokenization library using Deep Neural Network. CNN.</td>
 <td>Python</td>
-<td>0.988 F-measure.</td>
+<td>98.8% F-measure.</td>
 <td>MIT</td>
 <td><a href="https://github.com/rkcosmos/deepcut">rkcosmos, github</a></td>
 </tr>
@@ -104,7 +104,7 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>SynThai</td>
 <td>Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM.</td>
 <td>Python</td>
-<td>0.992 F-measure.</td>
+<td>99.2% F-measure</td>
 <td>MIT</td>
 <td><a href="https://github.com/KenjiroAI/SynThai">KenjiroAI, github</a></td>
 </tr>
@@ -120,6 +120,7 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
  <td>Multi-Candidate-Word-Segmentation</td>
  <td>Multi Candidate Word Segmentation for Thai language</td>
  <td>Python, RNN, LSTM</td>
+ <td>97.0% F-measure (Word Level), 98.95% F-measure (Boundary Level)</td>
  <td>MIT</td>
  <td><a href="https://goo.gl/hdhbiR">Paper</a>, <a href="https://github.com/earthy123/Multi-Candidate-Word-Segmentation">earthy123/Multi-Candidate-Word-Segmentation</a><br></td>
 </tr>
