@@ -116,6 +116,14 @@ LK82 + Udom83 | Thai Soundex | Python | | | [Korakot](https://gist.github.com/ko
 <td>MIT</td>
  <td><a href="https://github.com/pureexe/cutthai">Pureexe/cutthai Github</a></td>
 </tr>
+<tr>
+ <td>Multi-Candidate-Word-Segmentation</td>
+ <td>Multi Candidate Word Segmentation for Thai language</td>
+ <td>Python, RNN, LSTM</td>
+ <td>MIT</td>
+ <td><a href="https://goo.gl/hdhbiR">Paper</a>, <a href="https://github.com/earthy123/Multi-Candidate-Word-Segmentation">earthy123/Multi-Candidate-Word-Segmentation</a><br></td>
+</tr>
+ 
 </tbody>
 </table>
 
