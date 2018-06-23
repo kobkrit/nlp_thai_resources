@@ -194,12 +194,13 @@ HSE Thai Corpus | Modern texts written in Thai language (mostly news websites) |
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
-thai2vec | AWS LSTM Language Model trained on Wikipedia. Perplexity of 46.61 with 51556 embeddings. | 147.6MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thai2vec v0.2 | ULMFit on Wikipedia. Perplexity of 34.9 with 60,002 embeddings. | 70MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
 
 ## Text Classification Benchmarks
 Model | Description | Dataset | Accuracy | License | Link
 --- | --- | --- | --- | --- | ---
-thai2vec | Finetuned AWS LSTM Language Model | [BEST](https://thailang.nectec.or.th/best/) | 94.4% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thai2vec v0.1 | ULMFit | [BEST](https://thailang.nectec.or.th/best/) | 94.4% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thai2vec v0.2 | ULMFit | [Wongnai Challenge](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) | 62.7% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
 
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
