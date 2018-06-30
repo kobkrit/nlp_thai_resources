@@ -11,6 +11,10 @@ Library | Description | Programming Languages | Features | License | Author & Li
 JTCC| Thai Character Cluster | Java | | GPL-3.0 | [Wittawat](https://github.com/wittawatj/jtcc)
 TCC | Thai Character Cluster | Python | | Apache 2.0 | [Wannaphong](https://github.com/wannaphongcom/pythainlp/blob/pythainlp1.4/pythainlp/tokenize/tcc.py)
 
+### Thai Sentiment Analysis
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_analysis_thai)
 
 ### Thai Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
