@@ -164,7 +164,7 @@ kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Pyth
 
 ### Thai Question Answering (Machine Comprehension)
 Service | Description | License | Author & Link
---- | --- | --- | --- | --- | ---
+--- | --- | --- | --- 
 Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th)
 
 ## Dictionaries / Translation Pairs
