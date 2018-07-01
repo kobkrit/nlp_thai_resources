@@ -2,7 +2,7 @@
 Collection of Thai Natural Language Processing (NLP) software libraries, dictionaries, and corpus.
 Always welcome for pull requests.
 
-## Thai NLP Libraries
+## Thai NLP Libraries/Services
 
 ### Thai Character Cluster
 
@@ -161,6 +161,11 @@ Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL | [Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
+
+### Thai Question Answering (Machine Comprehension)
+Service | Description | License | Author & Link
+--- | --- | --- | --- | --- | ---
+Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th)
 
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
