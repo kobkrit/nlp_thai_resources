@@ -214,7 +214,7 @@ thai2vec v0.2 | ULMFit | [Wongnai Challenge](http://bit.ly/cu-2018-nlp) | 62.7% 
 
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
-http://aiat.in.th/resources/
+https://resources.aiat.or.th/
 
 # Acknowledgements
 * Arthit (https://www.facebook.com/arthit) - For suggestions on license words.
