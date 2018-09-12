@@ -224,3 +224,5 @@ https://resources.aiat.or.th/
 * Tchayintr (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr)
 * PureEXE (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe)
 * Cstorm125 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125)
+* Wannaphongcom (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=wannaphongcom)
+* Ekapolc (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=ekapolc)
