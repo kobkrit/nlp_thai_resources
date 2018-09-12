@@ -143,6 +143,7 @@ SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. R
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 Named Entity Tagging (Thai NEST) | Thai Named Entity tagging Specification and Tools | | | GPL | [KINDML, SIIT](http://saki.siit.tu.ac.th/kindml/thainest/), [AIAT](http://aiat.in.th/resources/index.php/tools/48-1-0-named-entity-tagging-program-version-1-0)
+ThaiNER | Thai Named Entity Recognition for PyThaiNLP | Python | | Apache 2.0 (code) & CC BY 3.0 (Dataset) | [ThaiNER](https://github.com/wannaphongcom/thai-ner)
 
 ### News Structure Tagging
 
@@ -223,4 +224,3 @@ http://aiat.in.th/resources/
 * Tchayintr (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr)
 * PureEXE (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe)
 * Cstorm125 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125)
-
