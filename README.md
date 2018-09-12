@@ -171,7 +171,7 @@ Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (
 ### Thai Emojification
 Service | Description | License | Author & Link
 --- | --- | --- | --- 
-Thai Emotification | LSTM | GNU General Public License v3.0 | [Demo at iApp-AI](http://ai.iapp.co.th/emojify) [Source, Github](https://github.com/kobkrit/thai-emojification)
+Thai Emotification | LSTM | GNU General Public License v3.0 | [Demo at iApp-AI](http://ai.iapp.co.th/emojify) and [Source, Github](https://github.com/kobkrit/thai-emojification)
 
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
