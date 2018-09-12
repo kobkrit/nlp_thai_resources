@@ -168,6 +168,11 @@ Service | Description | License | Author & Link
 --- | --- | --- | --- 
 Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th)
 
+### Thai Emojification
+Service | Description | License | Author & Link
+--- | --- | --- | --- 
+Thai Emotification | LSTM | GNU General Public License v3.0 | [Demo](http://ai.iapp.co.th/emojify) [Source](https://github.com/kobkrit/thai-emojification)
+
 ## Dictionaries / Translation Pairs
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
