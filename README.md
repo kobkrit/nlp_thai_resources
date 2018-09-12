@@ -210,7 +210,7 @@ thai2vec v0.2 | ULMFit on Wikipedia. Perplexity of 34.9 with 60,002 embeddings. 
 Model | Description | Dataset | Accuracy | License | Link
 --- | --- | --- | --- | --- | ---
 thai2vec v0.1 | ULMFit | [BEST](https://thailang.nectec.or.th/best/) | 94.4% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
-thai2vec v0.2 | ULMFit | [Wongnai Challenge](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction) | 62.7% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thai2vec v0.2 | ULMFit | [Wongnai Challenge](http://bit.ly/cu-2018-nlp) | 62.7% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
 
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
