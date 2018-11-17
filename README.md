@@ -222,12 +222,12 @@ thai2vec v0.2 | ULMFit | [Wongnai Challenge](http://bit.ly/cu-2018-nlp) | 62.7% 
 https://resources.aiat.or.th/
 
 # Acknowledgements
-* Arthit (https://www.facebook.com/arthit) - For suggestions on license words.
-* C4N (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n)
-* Veer66 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
-* Bi89 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bi89)
-* Tchayintr (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr)
-* PureEXE (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe)
-* Cstorm125 (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125)
-* Wannaphongcom (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=wannaphongcom)
-* Ekapolc (https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=ekapolc)
+* [Arthit](https://www.facebook.com/arthit) - For suggestions on license words.
+* [C4N](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=c4n)
+* [Veer66](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=veer66)
+* [Bi89](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=bi89)
+* [Tchayintr](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=tchayintr)
+* [PureEXE](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=pureexe)
+* [Cstorm125](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=cstorm125)
+* [Wannaphongcom](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=wannaphongcom)
+* [Ekapolc](https://github.com/kobkrit/nlp_thai_resources/commits/master/README.md?author=ekapolc)
