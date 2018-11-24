@@ -209,13 +209,21 @@ HSE Thai Corpus | Modern texts written in Thai language (mostly news websites) |
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
-thai2vec v0.2 | ULMFit on Wikipedia. Perplexity of 34.9 with 60,002 embeddings. | 70MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. | 70MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+
+## Language Model Benchmarks
+| Type           | Dataset                                                                                     | Validation Metric | Value    | Model | Link                                                                                           |
+|----------------|---------------------------------------------------------------------------------------------|-------------------|----------|-------|------------------------------------------------------------------------------------------------|
+| Language Model | [Thai Wiki](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2) | Perplexity        | 46.6051  | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Language Model | [Thai Wiki](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2) | Perplexity        | 46.80959 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Language Model | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Perplexity        | 42.2135  | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Language Model | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Perplexity        | 52.57522 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
 
 ## Text Classification Benchmarks
-Model | Description | Dataset | Accuracy | License | Link
---- | --- | --- | --- | --- | ---
-thai2vec v0.1 | ULMFit | [BEST](https://thailang.nectec.or.th/best/) | 94.4% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
-thai2vec v0.2 | ULMFit | [Wongnai Challenge](http://bit.ly/cu-2018-nlp) | 62.7% | MIT | [thai2vec](https://github.com/cstorm125/thai2vec) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+| Type           | Dataset                                                                                     | Validation Metric | Value    | Model | Link                                                                                           |
+|----------------|---------------------------------------------------------------------------------------------|-------------------|----------|-------|------------------------------------------------------------------------------------------------|
+| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Accuracy          | 0.626525 | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Accuracy          | 0.520333 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
 
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
