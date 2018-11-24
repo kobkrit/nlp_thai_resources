@@ -186,7 +186,7 @@ Yaitron | LEXiTRON in machine readable format (XML) | | TH->EN, EN->TH | LEXiTRO
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 ORCHID | | 30K sent. | Word Seg., POS Tagged. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
-THAI-NEST | Thai-NEST: Thai Named Entity tagging Specification and Tools | 45K+ Name Entity Token | GNU Lesser General Public 2.1 | [KINDML](https://saki.siit.tu.ac.th/kindml/thainest/index.php/download)
+THAI-NEST | Thai-NEST: Thai Named Entity tagging Specification and Tools | 45K+ Name Entity Token | Name Entity Tagged | GNU Lesser General Public 2.1 | [KINDML](https://saki.siit.tu.ac.th/kindml/thainest/index.php/download)
 InterBEST 2009/2010 | | 5M words | Word Seg. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
 Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
 TNC Top-5000 Words | Word frequency | 5,000 words | Frequency of Thai words in various genres, EXCEL |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNC/category.php?id=58&)
