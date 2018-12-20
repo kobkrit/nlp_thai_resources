@@ -223,8 +223,9 @@ thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. |
 ## Text Classification Benchmarks
 | Type           | Dataset                                                                                     | Validation Metric | Value    | Model | Link                                                                                           |
 |----------------|---------------------------------------------------------------------------------------------|-------------------|----------|-------|------------------------------------------------------------------------------------------------|
-| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Accuracy          | 0.626525 | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
-| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Accuracy          | 0.520333 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.60925	 | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.57057  | pretrained BERT  | [ThAIKeras](https://github.com/ThAIKeras/bert) |
+| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.520333 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
 
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
