@@ -212,21 +212,17 @@ Pre-trained Model | Description | Size | Dimensions | License | Link
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
 thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. | 70MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/)
 
-## Language Model Benchmarks
-| Type           | Dataset                                                                                     | Validation Metric | Value    | Model | Link                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------|-------------------|----------|-------|------------------------------------------------------------------------------------------------|
-| Language Model | [Thai Wiki](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2) | Perplexity        | 46.6051  | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
-| Language Model | [Thai Wiki](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2) | Perplexity        | 46.80959 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
-| Language Model | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Perplexity        | 42.2135  | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
-| Language Model | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Perplexity        | 52.57522 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+## [Thai Text Classification Benchmarks](https://www.github.com/pythainlp/classification-benchmarks)
 
-## Text Classification Benchmarks
-| Type           | Dataset                                                                                     | Validation Metric | Value    | Model | Link                                                                                           |
-|----------------|---------------------------------------------------------------------------------------------|-------------------|----------|-------|------------------------------------------------------------------------------------------------|
-| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.60925	 | LSTM  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
-| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.57057  | pretrained BERT  | [ThAIKeras](https://github.com/ThAIKeras/bert) |
-| Classification | [Wongnai](https://github.com/wongnai/wongnai-corpus)                                        | Micro F1          | 0.520333 | QRNN  | [thai2fit](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/) |
+### [wongnai-corpus](https://github.com/wongnai/wongnai-corpus)
 
+| model     | micro_f1_public | micro_f1_private | 
+|-----------|-----------------|------------------|
+| [**ULMFit**](https://github.com/cstorm125/thai2fit) | **0.59590**          | **0.59731**           |
+| fastText | 0.5145          | 0.5109           |
+| LinearSVC | 0.5022          | 0.4976           |
+| [Kaggle Score](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction/leaderboard) | 0.59139      | 0.58139          |
+| [BERT](https://github.com/ThAIKeras/bert) | 0.56612 | 0.57057 |
 
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
 https://resources.aiat.or.th/
