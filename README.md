@@ -218,7 +218,7 @@ thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. |
 
 | model     | micro_f1_public | micro_f1_private | 
 |-----------|-----------------|------------------|
-| [**ULMFit**](https://github.com/cstorm125/thai2fit) | **0.59590**          | **0.59731**           |
+| [**ULMFit**](https://github.com/cstorm125/thai2fit) | **0.59313**          | **0.60322**           |
 | fastText | 0.5145          | 0.5109           |
 | LinearSVC | 0.5022          | 0.4976           |
 | [Kaggle Score](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction/leaderboard) | 0.59139      | 0.58139          |
