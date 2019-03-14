@@ -224,6 +224,32 @@ thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. |
 | [Kaggle Score](https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction/leaderboard) | 0.59139      | 0.58139          |
 | [BERT](https://github.com/ThAIKeras/bert) | 0.56612 | 0.57057 |
 
+### [prachathai-67k](https://github.com/PyThaiNLP/prachathai-67k): body_text
+
+| Model     | Macro-accuracy | Macro-F1 |
+|-----------|----------------|----------|
+| fastText  | 0.9302         | 0.5529   |
+| LinearSVC | 0.513277       | 0.552801 |
+| **ULMFit**    | **0.948737**       | **0.744875**	 |
+
+## [wisesight-sentiment](https://github.com/PyThaiNLP/wisesight-sentiment)
+
+| Model               | Public Accuracy | Private Accuracy |
+|---------------------|-----------------|------------------|
+| Logistic Regression | 0.72781         | 0.7499           |
+| FastText            | 0.63144         | 0.6131           |
+| ULMFit              | 0.71259         | 0.74194          |
+| ULMFit Semi-supervised    | 0.73119     | 0.75859      |
+| **[ULMFit Semi-supervised Repeated One Time](https://github.com/PyThaiNLP/wisesight-sentiment/blob/master/competition.ipynb)**    | **0.73372**     | **0.75968**      |
+
+## [truevoice-intent](https://github.com/PyThaiNLP/truevoice-intent): destination
+
+| model     | accuracy | micro-F1 |
+|-----------|----------|----------|
+| fastText  | 0.384116 | 0.384116 |
+| LinearSVC | 0.807876 | 0.327565 |
+| **ULMFit**    | **0.834981**  | **0.834981** |
+
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
 https://resources.aiat.or.th/
 
