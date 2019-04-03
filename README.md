@@ -137,6 +137,8 @@ Library | Description | Programming Languages | Features | License | Author & Li
 --- | --- | --- | --- | --- | ---
 Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](https://veer66.wordpress.com/2012/03/20/part-of-speech-tagger-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/), [Jitar](https://github.com/danieldk/jitar) + [NAiST, 1](http://naist.cpe.ku.ac.th/pkg/jitar_model_large.zip) + [NAiST, 2](http://naist.cpe.ku.ac.th/pkg/jitar-20100224.zip)
 SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 0.9163 F-measure. RNN. LSTM | MIT | [KenjiroAI, github](https://github.com/KenjiroAI/SynThai)
+Chart-POS | Thai POS Tagger | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), Thodsaporn C., [Demo at iApp](https://ai.iapp.co.th/th-pos)
+
 
 ### Name Entity Recognition
 
@@ -155,8 +157,8 @@ News Structure Tagging Program | Thai News Structure Tagging Program | | Metadat
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | All rights reserved | Thanaruk T. (thanaruk@siit.tu.ac.th)
-Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)  
+Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), Thodsaporn C., [Demo at iApp](https://ai.iapp.co.th/th-parsing)
+Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)
 
 ### Thai Word Embedding
 Library | Description | Programming Languages | Features | License | Author & Link
@@ -166,7 +168,7 @@ kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Pyth
 ### Thai Question Answering (Machine Comprehension)
 Service | Description | License | Author & Link
 --- | --- | --- | --- 
-Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th)
+Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th/)
 
 ### Thai Emojification
 Service | Description | License | Author & Link
