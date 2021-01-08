@@ -187,18 +187,20 @@ Yaitron | LEXiTRON in machine readable format (XML) | | TH->EN, EN->TH | LEXiTRO
 
 Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
+Click Bait Sentences | Thai Click Bait Sentence | 330 sent. (90.7KB) | | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/blob/master/clickbait/1.txt)
 ORCHID | | 30K sent. | Word Seg., POS Tagged. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
+Prime Minister 29 | Prime Minister 29's Speech Sentences | 338KB | Word segged, Name Entity Tagged | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/tree/master/thai-corpus/Prime%20Minister%2029)
+thai-jokes-corpus | Cleaned Thai Jokes Corpus  | 457 jokes | | GNU-GPL3.0 | [iApp Technology](https://github.com/iapp-technology/thai-joke-corpus)
 THAI-NEST | Thai-NEST: Thai Named Entity tagging Specification and Tools | 45K+ Name Entity Token | Name Entity Tagged | GNU Lesser General Public 2.1 | [KINDML](https://saki.siit.tu.ac.th/kindml/thainest/index.php/download)
 InterBEST 2009/2010 | | 5M words | Word Seg. | CC BY-NC-SA 3.0 TH | [NECTEC](https://www.nectec.or.th/corpus/index.php?league=pm)
-Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
-TNC Top-5000 Words | Word frequency | 5,000 words | Frequency of Thai words in various genres, EXCEL |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNC/category.php?id=58&)
-Click Bait Sentences | Thai Click Bait Sentence | 330 sent. (90.7KB) | | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/blob/master/clickbait/1.txt)
 Thai Sentimental Word List | Thai Sentimental Words List | 52KB | Seperated Words as Adj, V | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/tree/master/sentiment)
-Prime Minister 29 | Prime Minister 29's Speech Sentences | 338KB | Word segged, Name Entity Tagged | MIT | [Wannaphongcom](https://github.com/wannaphongcom/lexicon-thai/tree/master/thai-corpus/Prime%20Minister%2029)
 Thai named entity corpora | named entity corpora by Wirote Aroonmanakun's students | 266KB-1.5MB | syllable seg., word seg., Named Entity tagged | GPLv3(not sure, but tltk is using this license) | [นัชชา ถิระสาโรช Data](http://pioneer.chula.ac.th/~awirote/Data-Nutcha.zip)<br /> [ศศิวิมล กาลันสีมา Data](http://pioneer.chula.ac.th/~awirote/Data-Sasiwimon.zip)<br /> [ณัฐดาพร เลิศชีวะ Data](http://pioneer.chula.ac.th/~awirote/Data-Nattadaporn.zip) 
+Thai Wikipedia | Formal Articles | 1.49GB (~213.1 MB compressed) | XML | GFDL | [WIKIPEDIA](https://dumps.wikimedia.org/thwiki/latest/thwiki-latest-pages-articles.xml.bz2)
 Thai WordNet | [THE CONSTRUCTION OF THAI WORDNET OF 1ST ORDER ENTITY COMMON BASE CONCEPTS USING A BI-DIRECTIONAL TRANSLATION METHOD AND WITH DICTIONARIES OF DIFFERENT COMPILATIONAL APPROACHES(ธนนท์ หลีน้อย)](http://www.arts.chula.ac.th/~ling/thesis/2551MA-DHANON.pdf) <br /> <br /> [THE CONSTRUCTION OF THAI WORDNET OF 2ND ORDER ENTITY COMMON BASE CONCEPTS USING A BI-DIRECTIONAL TRANSLATION METHOD : A STUDY OF THE DIVERSITY OF MEANINGS AFFECTING TRANSLATIONAL ACCURACY (ปริศนา อัครพุทธิพร)](http://cuir.car.chula.ac.th/handle/123456789/14274)||WordNet|N/A| [ธนนท์ หลีน้อย 2008](http://pioneer.chula.ac.th/~awirote/Data-Dhannon.rar)<br />[ปริศนา อัครพุทธิพร Data 2008](http://pioneer.chula.ac.th/~awirote/Data-Prisana.rar) 
+TNC Top-5000 Words | Word frequency | 5,000 words | Frequency of Thai words in various genres, EXCEL |  All rights reserved  | [CHULA](http://www.arts.chula.ac.th/~ling/TNC/category.php?id=58&)
 Toxicity in Thai Tweet Corpus |Tokyo Metropolitan University Natural Language Processing Group | | Each tweet is labeled as toxic or non-toxic |CC BY-NC 4.0 | [tmu-nlp](https://github.com/tmu-nlp/ThaiToxicityTweetCorpus)
-thai-jokes-corpus | Cleaned Thai Jokes Corpus  | 457 jokes | | GNU-GPL3.0 | [iApp Technology](https://github.com/iapp-technology/thai-joke-corpus)
+Wisesight Sentiment Corpus | Social media message with sentiment label (positive, neutral, negative, question). | ~26,700 messages | Sentiment label, Question label | Public domain | [PyThaiNLP](https://github.com/PyThaiNLP/wisesight-sentiment/)
+
 
 ## Web Query Text Corpus
 Library | Description | Size | Features | License | Link
