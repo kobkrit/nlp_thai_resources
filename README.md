@@ -137,7 +137,7 @@ Library | Description | Programming Languages | Features | License | Author & Li
 --- | --- | --- | --- | --- | ---
 Jitar+NAiST | A simple Trigram HMM part-of-speech tagger | Java |  |  | [Ver66](https://veer66.wordpress.com/2012/03/20/part-of-speech-tagger-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2%E0%B9%84%E0%B8%97%E0%B8%A2/), [Jitar](https://github.com/danieldk/jitar) + [NAiST, 1](http://naist.cpe.ku.ac.th/pkg/jitar_model_large.zip) + [NAiST, 2](http://naist.cpe.ku.ac.th/pkg/jitar-20100224.zip)
 SynThai| Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 0.9163 F-measure. RNN. LSTM | MIT | [KenjiroAI, github](https://github.com/KenjiroAI/SynThai)
-Chart-POS | Thai POS Tagger | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), Thodsaporn C., [Demo at iApp](https://ai.iapp.co.th/th-pos)
+Chart-POS | Thai POS Tagger | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), tchayintr, [Demo at iApp](https://ai.iapp.co.th/th-pos)
 
 
 ### Name Entity Recognition
@@ -157,8 +157,8 @@ News Structure Tagging Program | Thai News Structure Tagging Program | | Metadat
 
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), Thodsaporn C., [Demo at iApp](https://ai.iapp.co.th/th-parsing)
-Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | |  [Thodsaporn C.](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)
+Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C |  | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), tchayintr, [Demo at iApp](https://ai.iapp.co.th/th-parsing)
+Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | |  [tchayintr](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)
 
 ### Thai Word Embedding
 Library | Description | Programming Languages | Features | License | Author & Link
@@ -213,11 +213,13 @@ Library | Description | Size | Features | License | Link
 --- | --- | --- | --- | --- | ---
 TALPCo | TUFS Asian Language Parallel Corpus  | 1327 sent | open parallel corpus consisting of Japanese sentences and their translations into Burmese (Myanmar; the official language of the Republic of the Union of Myanmar), Malay (the national language of Malaysia, Singapore and Brunei), Indonesian, Thai, Vietnamese and English | CC BY 4.0 | [TALPCo](https://github.com/matbahasa/TALPCo)
 
-## Pre-trained Word Vectors 
+## Pre-trained Language Models
 Pre-trained Model | Description | Size | Dimensions | License | Link
 --- | --- | --- | --- | --- | ---
 fastText | Skip-Gram model trained on Wikipedia using fastText | | 300 | CC BY-SA 3.0 | [Facebook](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) + [Bin & Text](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.zip) + [Text Only](https://s3-us-west-1.amazonaws.com/fasttext-vectors/wiki.th.vec)
 thai2fit | ULMFit on Wikipedia. Perplexity of 46.80959 with 60,002 embeddings. | 70MB | 300 | MIT | [thai2vec](https://github.com/cstorm125/thai2fit) / [pyThaiNLP](https://github.com/PyThaiNLP/)
+thbert | Yet another pre-trained BERT particularly in Thai | | | Apache 2.0 | [tchayintr](https://github.com/tchayintr/thbert)
+
 
 ## [Thai Text Classification Benchmarks](https://www.github.com/pythainlp/classification-benchmarks)
 
