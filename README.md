@@ -261,6 +261,15 @@ thbert | Yet another pre-trained BERT particularly in Thai | | | Apache 2.0 | [t
 | LinearSVC | 0.807876 | 0.327565 |
 | **ULMFit**    | **0.834981**  | **0.834981** |
 
+## Tools
+
+### Corpus extractors
+
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+BEST2010 Cooker | A tool for extracting segmented words from Thai segmented BEST2010 corpus | Python3 | Extracting segmented words, features, and data divisions | Apache 2.0 | [tchayintr](https://github.com/tchayintr/best2010_cooker)
+
+
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
 https://resources.aiat.or.th/
 
