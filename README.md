@@ -1,8 +1,8 @@
-# Thai Natural Language Processing (Thai NLP) Resource
+# Thai NLP Resource
 Collection of Thai Natural Language Processing (NLP) software libraries, dictionaries, and corpus.
 Always welcome for pull requests.
 
-## Thai NLP Libraries/Services
+## Libraries/Services
 
 ### Thai Character Cluster
 Library | Description | Programming Languages | Features | License | Author & Link
@@ -10,12 +10,12 @@ Library | Description | Programming Languages | Features | License | Author & Li
 JTCC| Thai Character Cluster | Java | | GPL-3.0 | [Wittawat](https://github.com/wittawatj/jtcc)
 TCC | Thai Character Cluster | Python | | Apache 2.0 | [Wannaphong](https://github.com/wannaphongcom/pythainlp/blob/pythainlp1.4/pythainlp/tokenize/tcc.py)
 
-### Thai Sentiment Analysis
+### Sentiment Analysis
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_analysis_thai)
 
-### Thai Soundex
+### Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 PyThaiNLP | Python 3 | LK82 + Udom83 | Apache 2.0 | Korakot, [GitHub](https://github.com/PyThaiNLP/pythainlp)
@@ -62,17 +62,17 @@ Library | Description | Programming Languages | Features | License | Author & Li
 Chart-parser | Extract Syntactic Structure from POS Tagged Sentence. | C | | All rights reserved | AIAT, KINDML, Thanaruk T. (thanaruk@siit.tu.ac.th), tchayintr, [Demo at iApp](https://ai.iapp.co.th/th-parsing)
 Grammar Processing | Labelled Brackets -> Context Free Grammars (CFGs) | Python | Transform and compute probability | | [tchayintr](https://github.com/tchayintr/nlp-python/tree/master/grammar_processing)
 
-### Thai Word Embedding
+### Word Embedding
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
 kobkrit-word-embedding | Tensorflow implementation of Thai word embedding | Python | Source code, Example, Word distance graph | LGPL | [Kobkrit V.](https://github.com/kobkrit/tf-nlp-thai-word-embedding)
 
-### Thai Question Answering (Machine Comprehension)
+### Question Answering (Machine Comprehension)
 Service | Description | License | Author & Link
 --- | --- | --- | ---
 Thai Machine Comprehension (ThaiMC) | Bidirectional Attention Flow | Copyright (As the service) | [iApp-AI](http://ai.iapp.co.th/)
 
-### Thai Emojification
+### Emojification
 Service | Description | License | Author & Link
 --- | --- | --- | ---
 Thai Emotification | LSTM | GPL | [Demo at iApp-AI](http://ai.iapp.co.th/emojify) and [Source, Github](https://github.com/kobkrit/thai-emojification)
