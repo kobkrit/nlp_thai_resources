@@ -135,6 +135,14 @@ thbert | Yet another pre-trained BERT particularly in Thai | | | Apache 2.0 | [t
 - [truevoice-intent](https://github.com/PyThaiNLP/truevoice-intent): destination
 
 
+## Tools
+
+### Corpus extractors
+
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+BEST2010 cooker | A tool for extracting segmented words from Thai segmented BEST2010 corpus | Python3 | Extracting segmented words, features, and data divisions | Apache 2.0 | [tchayintr](https://github.com/tchayintr/best2010_cooker)
+
 ## Not found? Try to look at another Thai NLP Awesome List/Resource (Like this one)
 https://resources.aiat.or.th/
 
