@@ -13,28 +13,29 @@ TCC | Thai Character Cluster | Python | | Apache 2.0 | [Wannaphong](https://gith
 ### Sentiment Analysis
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_analysis_thai)
+sentiment_analysis_thai | | Python | | Not specified | JagerV3, [GitHub](https://github.com/JagerV3/sentiment_analysis_thai)
 
 ### Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-PyThaiNLP | Python 3 | LK82 + Udom83 | Apache 2.0 | Korakot, [GitHub](https://github.com/PyThaiNLP/pythainlp)
+PyThaiNLP | |  Python 3 | LK82 + Udom83 | Apache 2.0 | Korakot, [GitHub](https://github.com/PyThaiNLP/pythainlp)
 
 ### Word Segmentation
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-Chamkho | Lao/Thai word segmentation | Rust | LGPL | [GitHub](https://github.com/veer66/chamkho)
-CutKum | Thai word segmentation with Deep Learning in Tensorflow. RNN. | Python | 93% F-measure. | MIT | Pucktada, [GitHub](https://github.com/pucktada/cutkum)
-CutThai | Thai word segmentation written in coffee-script Edit | Coffee-script | | MIT | Pureexe/cutthai [GitHub](https://github.com/pureexe/cutthai)
-DeepCut | A Thai word tokenization library using Deep Neural Network. CNN. | Python | 98.8% F-measure. | MIT | rkcosmos, [GitHub](https://github.com/rkcosmos/deepcut)
-Lexto: Thai Lexeme Tokenizer | Java | | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexto.php)
-Lexto | Python 2 | | LGPL | [GitHub](https://github.com/Remixman/PythonLexTo)
-Lexto | Python 3 | | LGPL | [GitHub](https://github.com/c4n/PythonLexTo)
-Multi-Candidate-Word-Segmentation | Multi Candidate Word Segmentation for Thai language | Python, RNN, LSTM | 97.0% F-measure (Word Level), 98.95% F-measure (Boundary Level) | MIT | [paper](https://goo.gl/hdhbiR), [GitHub](https://github.com/earthy123/Multi-Candidate-Word-Segmentation)
-PyThaiNLP | Python 3 | Maximal matching and various other engines | Apache 2.0 | [GitHub](https://github.com/PyThaiNLP/pythainlp)
+Chamkho | Lao/Thai word segmentation | Rust | | LGPL | [GitHub](https://github.com/veer66/chamkho)
+CutKum | Thai word segmentation with Deep Learning in Tensorflow. RNN. | Python | 93% F-measure | MIT | Pucktada, [GitHub](https://github.com/pucktada/cutkum)
+CutThai | Thai word segmentation written in coffee-script Edit | CoffeeScript | | MIT | Pureexe/cutthai [GitHub](https://github.com/pureexe/cutthai)
+DeepCut | A Thai word tokenization library using Deep Neural Network. CNN. | Python | 98.8% F-measure | MIT | rkcosmos, [GitHub](https://github.com/rkcosmos/deepcut)
+Lexto | Thai Lexeme Tokenizer | Java | | LGPL | [NECTEC](http://www.sansarn.com/lexto/license-lexto.php)
+Lexto | Thai Lexeme Tokenizer | Python 2 | | LGPL | [GitHub](https://github.com/Remixman/PythonLexTo)
+Lexto | Thai Lexeme Tokenizer | Python 3 | | LGPL | [GitHub](https://github.com/c4n/PythonLexTo)
+Multi-Candidate-Word-Segmentation | Multi Candidate Word Segmentation for Thai language | Python | 97.0% F-measure (Word Level), 98.95% F-measure (Boundary Level) | MIT | [paper](https://goo.gl/hdhbiR), [GitHub](https://github.com/earthy123/Multi-Candidate-Word-Segmentation)
+nlpO3 | Maximal matching + Thai Character Cluster | Rust, with Python and JavaScript bindings | | Apache 2.0 | Gorlph, [GitHub](https://github.com/PyThaiNLP/nlpO3/)
+PyThaiNLP | Maximal matching and various other engines | Python 3 | | Apache 2.0 | [GitHub](https://github.com/PyThaiNLP/pythainlp)
 Swath | SWATH (Smart Word Analysis for THai) is a word segmentation for Thai | C | Longest Matching, Maximal Matching and Part-of-Speech Bigram. | GPL | Paisarn Charoenpornsawat, [CMU](http://www.cs.cmu.edu/%7Epaisarn/software.html)
 SynThai | Thai Word Segmentation and Part-of-Speech Tagging with Deep Learning. RNN. LSTM. | Python | 99.2% F-measure | MIT | KenjiroAI, [GitHub](https://github.com/KenjiroAI/SynThai)
-Thai Language Toolkit (tltk) | Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included) | Python | 97.86% F-measure. (It was tested on a different testset; it is not fair to compare it with other models.) | GPLv3 | [PyPI](https://pypi.python.org/pypi/tltk/)
+Thai Language Toolkit (tltk) | Based on a paper by Wirote Aroonmanakun in 2002. Word segmentation is based on a maximum collocation approach. Syllable segmentation is based on 3grams statistics. (Dataset is included) | Python | 97.86% F-measure | GPLv3 | [PyPI](https://pypi.python.org/pypi/tltk/)
 Wordcut | Thai word breaker for Node.js | JavaScript, Node.JS | | LGPL-3.0 | veer66, [GitHub](https://github.com/veer66/wordcut)
 wordcutpy | A simple Thai word tokenizer written in 1 Python file | Python 3 | | LGPL-3.0 | veer66, [GitHub](https://github.com/veer66/wordcutpy)
 
