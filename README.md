@@ -13,12 +13,12 @@ TCC | Thai Character Cluster | Python | | Apache 2.0 | [Wannaphong](https://gith
 ### Sentiment Analysis
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_analysis_thai)
+sentiment_analysis_thai | | Python | | Not specified | JagerV3, [GitHub](https://github.com/JagerV3/sentiment_analysis_thai)
 
 ### Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-PyThaiNLP | Python 3 | LK82 + Udom83 | Apache 2.0 | Korakot, [GitHub](https://github.com/PyThaiNLP/pythainlp)
+PyThaiNLP | |  Python 3 | LK82 + Udom83 | Apache 2.0 | Korakot, [GitHub](https://github.com/PyThaiNLP/pythainlp)
 
 ### Word Segmentation
 Library | Description | Programming Languages | Features | License | Author & Link
