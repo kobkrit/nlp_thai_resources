@@ -15,6 +15,11 @@ Library | Description | Programming Languages | Features | License | Author & Li
 --- | --- | --- | --- | --- | ---
 sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_analysis_thai)
 
+### Intent Classification
+Library | Description | Programming Languages | Features | License | Author & Link
+--- | --- | --- | --- | --- | ---
+terai-router | Offline-first Thai intent routing with typo-tolerant matching | Python 3.11+ | CPU-only; no runtime dependencies | MIT | Klanarongz2009, [GitHub](https://github.com/klanarongz2009-sketch/ter-ai)
+
 ### Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
