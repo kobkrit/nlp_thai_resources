@@ -18,7 +18,7 @@ sentiment_analysis_thai | | | || [JagerV3](https://github.com/JagerV3/sentiment_
 ### Intent Classification
 Library | Description | Programming Languages | Features | License | Author & Link
 --- | --- | --- | --- | --- | ---
-TER-AI intent router | Offline-first Thai and Thai-English intent routing with typo-tolerant matching (15 intents) | Python 3.11+ | CPU-only; no runtime dependencies; latest release [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) | Code MIT; Wayu-Paxa-TTS-Edge weights (TTS module) CC-BY-NC-4.0 | Klanarongz2009, [GitHub](https://github.com/klanarongz2009-sketch/ter-ai)
+TER-AI intent router | Offline-first Thai and Thai-English intent routing with typo-tolerant matching (15 intents) | Python 3.11+ | CPU-only; no runtime dependencies; latest release [v0.18.3](https://github.com/klanarongz2009-sketch/ter-ai/releases/tag/v0.18.3) | Code MIT; Wayu-Paxa-TTS-Edge weights (TTS module) CC-BY-NC-4.0. The TTS module (TTH) ends service on 2026-11-30; v0.18.3 is the last release that includes it, and other projects may continue or fine-tune it (TTH-MTL's OmniVoice weights are CC-BY-NC) | Klanarongz2009, [GitHub](https://github.com/klanarongz2009-sketch/ter-ai)
 
 ### Soundex
 Library | Description | Programming Languages | Features | License | Author & Link
